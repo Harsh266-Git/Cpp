@@ -1,2 +1,2 @@
-# DAY 1
+# Day 1
 "Raam Raam Bhai Sareyaa ne"
