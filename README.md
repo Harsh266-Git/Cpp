@@ -10,5 +10,5 @@
 <br>
 "8.cpp  another prgrm about the even and odd"
 <br>
-"9.cpp to check the is it number-character or symbol"
+"9.cpp to check, is it number-character or symbol"
 :)
