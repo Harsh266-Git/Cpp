@@ -6,5 +6,5 @@
 # Day 3
 "This program shows that either the character is vowel or not"
 <br>
-"another prgrm about the average marks"
+"7.cpp  another prgrm about the average marks"
 :)
