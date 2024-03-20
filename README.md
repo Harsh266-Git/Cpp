@@ -14,4 +14,7 @@
 <br>
 "10.cpp to check, is it Lowercase or uppercase"
 <br>
-:)
+
+# Day 3
+"prgrm to exceed the salary if the year is more than 5"
+<br>
