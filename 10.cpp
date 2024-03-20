@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std; 
 int main() {
-    cout<<"Enter the bit to check weather it is number-character or digit"<<endl;
+    cout<<"Enter the bit to check weather it is Lowercase or Uppercase"<<endl;
     char ch;
     cin>>ch;
     if(ch>='A'&& ch<='Z'){
