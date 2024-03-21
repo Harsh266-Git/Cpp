@@ -18,3 +18,5 @@
 # Day 3
 "prgrm to exceed the salary if the year is more than 5"
 <br>
+"prgrm to allow the student if attendancemore than 75%"
+<br>
